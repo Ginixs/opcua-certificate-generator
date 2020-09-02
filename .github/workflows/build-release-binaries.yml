@@ -2,7 +2,7 @@ name: Build binary releases
 on:
   push:
     branches:
-      - "develop"
+      - "master"
 
 jobs:
   pre-release:
