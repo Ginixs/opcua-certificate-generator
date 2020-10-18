@@ -1,4 +1,4 @@
-# OPCUA Certificate Generator
+# OPC UA Certificate Generator
 
 --- DOESN'T WORK YET. WIP ---
 
