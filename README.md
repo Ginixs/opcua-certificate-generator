@@ -1,4 +1,4 @@
-# opcua-certificate-generator
+# OPCUA Certificate Generator
 
 --- DOESN'T WORK YET. WIP ---
 
