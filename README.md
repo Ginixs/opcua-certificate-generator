@@ -1,5 +1,7 @@
 # opcua-certificate-generator
 
+--- DOESN'T WORK YET. WIP ---
+
 OPCUA Certificate Generator is a desktop app (Windows/Mac) that can be used to generate a Certificate Authority and server/client certificate which can be used in a OPC UA environment.
 
 Also plan on adding support for generating CRL's.
