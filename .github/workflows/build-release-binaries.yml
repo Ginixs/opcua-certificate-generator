@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - "master"
+      - "sciter"
 
 jobs:
   pre-release:
