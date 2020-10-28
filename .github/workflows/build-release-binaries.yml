@@ -29,7 +29,7 @@ jobs:
 
       - name: "Build & test"
         run: |
-          CC=x86_64-w64-mingw32-gcc CGO_ENABLED=1 GOOS=windows GOARCH=amd64 go build -ldflags "-extldflags -static" -o win_text.exe main.go
+          CC=x86_64-w64-mingw32-gcc CGO_ENABLED=1 GOOS=windows GOARCH=amd64 go build -ldflags "-extldflags -static" -o build/win_text.exe main.go
 
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
